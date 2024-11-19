@@ -3,3 +3,4 @@ i cant understand a single thing in my world
 god help me 
 and now am in git 
 adding the remote repo was quite a handfull
+creating a new branch and committing changes through it 
